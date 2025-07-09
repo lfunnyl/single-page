@@ -39,6 +39,11 @@ This repository contains a **personal CV template built with HTML** featuring a 
 - **Style:** Modify the `<style>` section in `cv.html` to change colors, borders, fonts, etc.
 - **Sections:** Duplicate or add `<section>` blocks for more content.
 
+## Credits
+
+- **Original template:** [github.com/roadmap-sh/single-page-cv](https://github.com/roadmap-sh/single-page-cv)  
+- **Project page:** [roadmap.sh/projects/single-page-cv](https://roadmap.sh/projects/single-page-cv)
+
 ## Contribution
 
 Feel free to open pull requests for improvements, new templates, or suggestions.
